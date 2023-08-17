@@ -1,0 +1,50 @@
+body{
+    background-color: #8e9ad1;
+    
+}
+.info-group{
+    padding: 8px 8px; 
+    text-align: center;
+}
+
+.img-container  {
+    display: block;
+    text-align: center;
+}
+
+.card-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    position: relative;
+    height: 54px;
+    
+}
+.card-header .btn{
+    position: absolute;
+    left: 10px;
+}
+
+.label-titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0 !important;
+}
+
+.card{
+    border: 1px solid black;
+}
+.error{
+    color: red;
+}
+
+.botons-group{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#btn-volver{
+    margin-left: 6px;
+}
